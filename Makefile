@@ -1,14 +1,5 @@
-##
-## Makefile for raytracer in /home/teisse_l//Documents/projet/raytracer
-## 
-## Made by lambert teisserenc-bonesteve
-## Login   <teisse_l@epitech.net>
-## 
-## Started on  Wed Jan 25 01:05:57 2012 lambert teisserenc-bonesteve
-## Last update Thu Jul 12 14:07:51 2012 lambert teisserenc-bonesteve
-##
 
-NAME		=	crumble
+NAME		=	crumble-arena
 
 CXXFLAGS	=	-I include/ -Wextra -Wall
 
